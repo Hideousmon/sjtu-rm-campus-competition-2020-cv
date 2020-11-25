@@ -5,7 +5,7 @@
 
 Identify the three primary colors of the sudoku. 
 
-### Dependencies:
+### Dependencies
 
 * OPENCV 4.*
 * WiringPi (for uart output)
