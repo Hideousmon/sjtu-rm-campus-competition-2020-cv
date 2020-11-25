@@ -3,7 +3,7 @@
 
 ###  Task
 
-Identify the three primary colors of the nine palace grid. 
+Identify the three primary colors of the sudoku. 
 
 ### Dependencies:
 
